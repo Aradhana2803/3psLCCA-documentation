@@ -631,7 +631,7 @@ HOW TO ANNOTATE:
   Label: "④ Summary — tab total cost and item count"
 ============================================================ -->
 
-![Construction Work Data — Overview](documentation_images/partC/01_construction_work_data_overview.png)
+![Construction Work Data — Overview](documentation_images/PartC/01_construction_work_data_overview.png)
 
 #### C.1.1 Tab summary bar
 
@@ -677,7 +677,7 @@ HOW TO ANNOTATE:
   Label: "③ Row actions — Edit and Move to trash"
 ============================================================ -->
 
-![Foundation Tab — Layout](documentation_images/partC/02_foundation_tab_layout.png)
+![Foundation Tab — Layout](documentation_images/PartC/02_foundation_tab_layout.png)
 
 #### C.2.1 Materials table (per component)
 
@@ -734,7 +734,7 @@ HOW TO ANNOTATE:
   Label: "① Add Component — creates a new component section in this tab"
 ============================================================ -->
 
-![Sub-Structure Tab](documentation_images/partC/03_sub_structure_tab.png)
+![Sub-Structure Tab](documentation_images/PartC/03_sub_structure_tab.png)
 
 ---
 
@@ -764,7 +764,7 @@ HOW TO ANNOTATE:
   Label: "① Super-structure components — deck and load-carrying bridge elements"
 ============================================================ -->
 
-![Material Dialog — Overview](documentation_images/partC/04_super_structure_tab.png)
+![Material Dialog — Overview](documentation_images/PartC/04_super_structure_tab.png)
 
 ---
 
@@ -795,7 +795,7 @@ HOW TO ANNOTATE:
   Label: "① Active : Miscellaneous"
 ============================================================ -->
 
-![Material Dialog — Overview](documentation_images/partC/05_miscellaneous_tab.png)
+![Material Dialog — Overview](documentation_images/PartC/05_miscellaneous_tab.png)
 
 ---
 
@@ -825,7 +825,7 @@ HOW TO ANNOTATE:
   Label: "③ Recyclability inclusion toggle — controls whether recycling fields are used"
 ============================================================ -->
 
-![Material Dialog — Overview](documentation_images/partC/06_material_dialog_overview.png)
+![Material Dialog — Overview](documentation_images/PartC/06_material_dialog_overview.png)
 
 #### C.6.1 Material suggestions and auto-fill (when configured)
 
@@ -1004,7 +1004,7 @@ HOW TO ANNOTATE:
   Label: "③ Trash actions — Restore or Permanently delete"
 ============================================================ -->
 
-![Trash View](documentation_images/partC/08_trash_view.png)
+![Trash View](documentation_images/PartC/08_trash_view.png)
 
 #### C.8.3 Restoring a material
 
@@ -1153,11 +1153,11 @@ Use the following example entries to populate Construction Work Data for the Son
 
 | Checklist Item | File |
 |----------------|------|
-| Construction Work Data — Overview (annotated) | `documentation_images/partC/01_construction_work_data_overview.png` |
-| Foundation Tab — Layout (annotated) | `documentation_images/partC/02_foundation_tab_layout.png` |
-| Sub-Structure Tab (annotated) | `documentation_images/partC/03_sub_structure_tab.png` |
-| Super-Structure Tab (annotated) | `documentation_images/partC/04_super_structure_tab.png` |
-| Miscellaneous Tab (annotated) | `documentation_images/partC/05_miscellaneous_tab.png` |
-| Material Dialog — Overview (annotated) | `documentation_images/partC/06_material_dialog_overview.png` |
-| Trash View (annotated) | `documentation_images/partC/08_trash_view.png` |
+| Construction Work Data — Overview (annotated) | `documentation_images/PartC/01_construction_work_data_overview.png` |
+| Foundation Tab — Layout (annotated) | `documentation_images/PartC/02_foundation_tab_layout.png` |
+| Sub-Structure Tab (annotated) | `documentation_images/PartC/03_sub_structure_tab.png` |
+| Super-Structure Tab (annotated) | `documentation_images/PartC/04_super_structure_tab.png` |
+| Miscellaneous Tab (annotated) | `documentation_images/PartC/05_miscellaneous_tab.png` |
+| Material Dialog — Overview (annotated) | `documentation_images/PartC/06_material_dialog_overview.png` |
+| Trash View (annotated) | `documentation_images/PartC/08_trash_view.png` |
 
