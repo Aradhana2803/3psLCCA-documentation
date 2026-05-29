@@ -763,6 +763,9 @@ HOW TO ANNOTATE:
 - ① Draw a rectangular blue box around one full super-structure component section
   Label: "① Super-structure components — deck and load-carrying bridge elements"
 ============================================================ -->
+
+![Material Dialog — Overview](documentation_images/partC/04_super_structure_tab.png)
+
 ---
 
 ### C.5 Miscellaneous tab
@@ -789,8 +792,11 @@ HOW TO CAPTURE:
 
 HOW TO ANNOTATE:
 - ① Draw a rectangular blue box around one miscellaneous component section
-  Label: "① Miscellaneous works — auxiliary bridge elements and finishing items"
+  Label: "① Active : Miscellaneous"
 ============================================================ -->
+
+![Material Dialog — Overview](documentation_images/partC/05_miscellaneous_tab.png)
+
 ---
 
 ### C.6 Adding a material (Material Dialog)
@@ -1150,6 +1156,8 @@ Use the following example entries to populate Construction Work Data for the Son
 | Construction Work Data — Overview (annotated) | `documentation_images/partC/01_construction_work_data_overview.png` |
 | Foundation Tab — Layout (annotated) | `documentation_images/partC/02_foundation_tab_layout.png` |
 | Sub-Structure Tab (annotated) | `documentation_images/partC/03_sub_structure_tab.png` |
-| Material Dialog — Overview (annotated) | `documentation_images/partC/04_material_dialog_overview.png` |
-| Trash View (annotated) | `documentation_images/partC/05_trash_view.png` |
+| Super-Structure Tab (annotated) | `documentation_images/partC/04_super_structure_tab.png` |
+| Miscellaneous Tab (annotated) | `documentation_images/partC/05_miscellaneous_tab.png` |
+| Material Dialog — Overview (annotated) | `documentation_images/partC/06_material_dialog_overview.png` |
+| Trash View (annotated) | `documentation_images/partC/08_trash_view.png` |
 
