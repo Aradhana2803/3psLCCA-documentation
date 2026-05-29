@@ -825,7 +825,7 @@ HOW TO ANNOTATE:
   Label: "③ Recyclability inclusion toggle — controls whether recycling fields are used"
 ============================================================ -->
 
-![Material Dialog — Overview](documentation_images/PartC/06_material_dialog_overview.png.png)
+![Material Dialog — Overview](documentation_images/PartC/06_material_dialog_overview.png)
 
 #### C.6.1 Material suggestions and auto-fill (when configured)
 
